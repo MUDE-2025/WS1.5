@@ -1,4 +1,4 @@
-# Workshop 1.5
+# Workshop 1.5: To Starve or Not to Starve
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
